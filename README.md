@@ -12,3 +12,8 @@
   * Me to extensify my knowledege a lot more.
   * For Hearts to make users more productive.
   * For Hearts to make hardware description a lot easier for users of it.
+  * The Hearts HDL to become a very extensive HDL.
+
+## Features // to do finish the features
+  * Customizable clock speed.
+  * 
